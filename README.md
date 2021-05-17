@@ -26,7 +26,8 @@
 - 🤔 &nbsp; Explorando nuevas tecnologías para un mejor entendimiento.
 - 🎓 &nbsp; Por terminar el bachillerato de Informática.
 - 😄 &nbsp; Muy interesado en seguridad informática e Inteligencia Artificial.
--  📫 Me pueden contactar en gmail: zitelli-devkek@gmai.com 
+-  📫Me pueden contactar en gmail: zitelli-devkek@gmai.com 
+-  💬¡Me gusta mucho tener conversaciones de diferentes tópicos que sean interesantes!
 - ☕ &nbsp; Mi frase favorita: "Show me your friends and I'll show you your future".
 <p align="center">
   <img alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/1023949183704318369/F8410A21B7374A0E2A07DFB159C4A279CD6B458F/" height="200"/>
