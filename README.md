@@ -3,7 +3,7 @@
   <img alt="GIF" src="https://wallpapercave.com/wp/wp2761901.gif" height="300"/>
 </p>
 </p>
-<hr>
+
 <p align="center">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" />
 <img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /> 
