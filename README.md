@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://media1.tenor.com/images/b924e35dc0eba4e34318e86481db69eb/tenor.gif?itemid=13410604" height="200"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1001393370184877162/3EAA5212E7118DFFF86C26BC70E3E6245E23C9C8/" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Zitelli-Devkek&show_icons=true&theme=synthwave" />
 </p>
 
