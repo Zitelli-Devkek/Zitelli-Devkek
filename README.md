@@ -13,10 +13,10 @@
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
-<p align="left">
+<p align="center">
   <img alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/1023949183704318369/F8410A21B7374A0E2A07DFB159C4A279CD6B458F/" height="200"/>
 </p>
-<p align="right">
+<p align="center">
   <img alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Zitelli-Devkek&show_icons=true&theme=synthwave" />
 </p>
 
