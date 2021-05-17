@@ -1,4 +1,4 @@
-<h1><p align="center">¡Hola &nbsp; <img src="https://wallpapercave.com/wp/wp2761192.gif" alt="GIF" width=45px height=45px>  &nbsp;, soy <a href="https://github.com/Zitelli-Devkek">Zitelli</a>! 👋</p></h1>
+<h1><p align="center">¡Hello there &nbsp; <img src="https://wallpapercave.com/wp/wp2761192.gif" alt="GIF" width=45px height=45px>  &nbsp;, I am <a href="https://github.com/Zitelli-Devkek">Zitelli</a>! 👋</p></h1>
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp2760971.gif" height="200"/>
 </p>
