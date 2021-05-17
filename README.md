@@ -22,11 +22,10 @@
 <hr>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 🔭 &nbsp; Estoy en busqueda de ampliar mis conocimientos en desarrollo web
+- 🤔 &nbsp; Explorando nuevas tecnologías para un mejor entendimiento.
+- 🎓 &nbsp; Por terminar el bachillerato de Informática.
+- 🌱 &nbsp; Muy interesado en seguridad informática e Inteligencia Artificial .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 <p align="center">
