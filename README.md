@@ -26,7 +26,7 @@
 - 🤔 &nbsp; Explorando nuevas tecnologías para un mejor entendimiento.
 - 🎓 &nbsp; Por terminar el bachillerato de Informática.
 - 😄 &nbsp; Muy interesado en seguridad informática e Inteligencia Artificial.
--  📫&nbsp; Me pueden contactar: Gmail:zitelli-devkek@gmai.com | WhatsApp: +54 9 11 2376-2160
+-  📫&nbsp; Me pueden contactar: Gmail: zitelli-devkek@gmai.com | WhatsApp: +54 9 11 2376-2160
 -  💬&nbsp;¡Me gusta mucho tener conversaciones de diferentes tópicos que sean interesantes!
 - ☕ &nbsp; Mi frase favorita: "Show me your friends and I'll show you your future".
 <p align="center">
