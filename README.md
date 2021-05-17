@@ -13,7 +13,7 @@
 <hr>
 <p align="center">
 <img align="center" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML logo" width="60"  />
-<img align="center" src="http://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" alt="CSS logo"  width="125" /> 
+<img align="center" src="http://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" alt="CSS logo"  width="115" /> 
 <img align="center" src="https://anthoncode.com/wp-content/uploads/2019/01/python-logo-png.png" alt="Python logo"  width="300" />
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS studio logo"  width="40" />
 <img align="center" src="https://i.pinimg.com/originals/f0/1d/d4/f01dd49c944e37528fc9f421e8ac4dc7.png" alt="git logo"  width="80" />
