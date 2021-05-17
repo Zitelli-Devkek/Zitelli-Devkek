@@ -1,9 +1,9 @@
 </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-17-blue" />
-  <img src="https://img.shields.io/badge/Focusing on-Web%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Focusing on-Web%20Development-orange" />
   <img src="https://img.shields.io/badge/Lives-Argentina-lightblue" />
-  <img src="https://img.shields.io/badge/Languages-Spanish and English-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-Spanish and English-purple" />
 </p>
 <h1><p align="center">¡Hola &nbsp; <img src="https://wallpapercave.com/wp/wp2761192.gif" alt="GIF" width=45px height=45px>  &nbsp;, soy <a href="https://github.com/Zitelli-Devkek">Zitelli Dev (kek)</a>! 👋</p></h1>
 <p align="center">
