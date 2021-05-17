@@ -2,7 +2,7 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-17-blue" />
   <img src="https://img.shields.io/badge/Focusing on-Web%20Development-orange" />
-  <img src="https://img.shields.io/badge/Lives-Argentina-lightblue" />
+  <img src="https://img.shields.io/badge/Lives-Argentina 🇦🇷-lightblue" />
   <img src="https://img.shields.io/badge/Languages-Spanish and English-purple" />
 </p>
 <h1><p align="center">¡Hola &nbsp; <img src="https://wallpapercave.com/wp/wp2761192.gif" alt="GIF" width=45px height=45px>  &nbsp;, soy <a href="https://github.com/Zitelli-Devkek">Zitelli Dev (kek)</a>! 👋</p></h1>
@@ -26,7 +26,7 @@
 - 🤔 &nbsp; Explorando nuevas tecnologías para un mejor entendimiento.
 - 🎓 &nbsp; Por terminar el bachillerato de Informática.
 - 😄 &nbsp; Muy interesado en seguridad informática e Inteligencia Artificial.
--  📫&nbsp; Me pueden contactar en gmail: zitelli-devkek@gmai.com 
+-  📫&nbsp; Me pueden contactar: zitelli-devkek@gmai.com 
 -  💬&nbsp;¡Me gusta mucho tener conversaciones de diferentes tópicos que sean interesantes!
 - ☕ &nbsp; Mi frase favorita: "Show me your friends and I'll show you your future".
 <p align="center">
