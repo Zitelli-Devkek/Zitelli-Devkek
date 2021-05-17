@@ -1,4 +1,4 @@
-<h1><p align="center">¡Hola &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Rotating_earth_%28large%29_transparent.gif" alt="GIF" width=45px height=45px>  &nbsp;, soy <a href="https://github.com/Zitelli-Devkek">Zitelli</a>! 👋</p></h1>
+<h1><p align="center">¡Hola &nbsp; <img src="https://www.kizoa.es/img/e8nZC.gif" alt="GIF" width=45px height=45px>  &nbsp;, soy <a href="https://github.com/Zitelli-Devkek">Zitelli</a>! 👋</p></h1>
 <p align="center">
   
   <img src="https://steamuserimages-a.akamaihd.net/ugc/1023949183704318369/F8410A21B7374A0E2A07DFB159C4A279CD6B458F/" height="200"/>
