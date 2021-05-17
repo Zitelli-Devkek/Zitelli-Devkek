@@ -1,6 +1,6 @@
 <h1><p align="center">¡Hello there &nbsp; <img src="https://wallpapercave.com/wp/wp2761192.gif" alt="GIF" width=45px height=45px>  &nbsp;, I am <a href="https://github.com/Zitelli-Devkek">Zitelli</a>! 👋</p></h1>
 <p align="center">
-  <img alt="GIF" src="https://wallpapercave.com/wp/wp2761901.gif" height="400"/>
+  <img alt="GIF" src="https://wallpapercave.com/wp/wp2761901.gif" height="300"/>
 </p>
 
 
