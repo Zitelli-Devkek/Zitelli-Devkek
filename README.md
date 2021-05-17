@@ -1,11 +1,10 @@
 ### Hi there 👋
-
-<!--
-**Zitelli-Devkek/Zitelli-Devkek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 </p>
+<!--
+**Zitelli-Devkek/Zitelli-Devkek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
