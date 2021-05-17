@@ -15,7 +15,7 @@
 <img align="center" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML logo" width="65"  />
 <img align="center" src="http://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" alt="CSS logo"  width="115" /> 
 <img align="center" src="https://anthoncode.com/wp-content/uploads/2019/01/python-logo-png.png" alt="Python logo"  width="300" />
-<img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--9F8ygOQO--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/ikysur95osy0deokuuji.png" alt="VS studio logo"  width="40" />
+<img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--9F8ygOQO--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/ikysur95osy0deokuuji.png" alt="VS studio logo"  width="200" />
 <img align="center" src="https://i.pinimg.com/originals/f0/1d/d4/f01dd49c944e37528fc9f421e8ac4dc7.png" alt="git logo"  width="80" />
  <img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" alt="github logo" width="130" />
 </p>
