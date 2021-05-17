@@ -1,7 +1,7 @@
 </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-17-blue" />
-  <img src="https://img.shields.io/badge/Web-Development%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Focusing on-Web%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Argentina-success" />
   <img src="https://img.shields.io/badge/Languages-Spanish and English-brightgreen" />
 </p>
