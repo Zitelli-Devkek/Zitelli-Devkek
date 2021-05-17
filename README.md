@@ -5,14 +5,14 @@
   <img src="https://img.shields.io/badge/Lives-Argentina-lightblue" />
   <img src="https://img.shields.io/badge/Languages-Spanish and English-purple" />
 </p>
-<h1><p align="center">¡Hola &nbsp; <img src="https://wallpapercave.com/wp/wp2761192.gif" alt="GIF">  &nbsp;, soy <a href="https://github.com/Zitelli-Devkek">Zitelli Dev (kek)</a>! 👋</p></h1>
+<h1><p align="center">¡Hola &nbsp; <img src="https://wallpapercave.com/wp/wp2761192.gif" alt="GIF" width=45px height=45px>  &nbsp;, soy <a href="https://github.com/Zitelli-Devkek">Zitelli Dev (kek)</a>! 👋</p></h1>
 <p align="center">
   <img alt="GIF" src="https://wallpapercave.com/wp/wp2761901.gif" height="300"/>
 </p>
 </p>
 <hr>
 <p align="center">
-<img align="center" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML logo" height="30" width="40" />
+<img align="center" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML logo" height="30"  />
 <img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /> 
 <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" />
 <img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" />
