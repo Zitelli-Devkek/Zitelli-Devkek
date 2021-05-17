@@ -12,7 +12,7 @@
 </p>
 <hr>
 <p align="center">
-<img align="center" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML logo" height="30"  />
+<img align="center" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML logo" width="40"  />
 <img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /> 
 <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" />
 <img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" />
