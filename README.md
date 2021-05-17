@@ -1,7 +1,10 @@
 ### Hi there 👋
 <p align="center">
   <img src="https://media1.tenor.com/images/b924e35dc0eba4e34318e86481db69eb/tenor.gif?itemid=13410604" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zitelli-Devkek&show_icons=true&theme=synthwave" />
 </p>
+
+
 <!--
 **Zitelli-Devkek/Zitelli-Devkek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
