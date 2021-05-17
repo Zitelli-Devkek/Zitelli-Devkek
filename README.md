@@ -1,9 +1,9 @@
 </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
+<img src="https://img.shields.io/badge/Age-17-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-Spanish and English%20%26%20Sinhala-brightgreen" />
 </p>
 <h1><p align="center">¡Hola &nbsp; <img src="https://wallpapercave.com/wp/wp2761192.gif" alt="GIF" width=45px height=45px>  &nbsp;, soy <a href="https://github.com/Zitelli-Devkek">Zitelli</a>! 👋</p></h1>
 <p align="center">
