@@ -17,7 +17,7 @@
 <img align="center" src="https://anthoncode.com/wp-content/uploads/2019/01/python-logo-png.png" alt="Python logo"  width="300" />
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS studio logo"  width="40" />
 <img align="center" src="https://www.innerzaurus.com/wp-content/uploads/2020/08/Logo-de-Git.png" alt="git logo"  width="40" />
- <img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" alt="github logo" width="130" />
+ <img align="center" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github logo" width="40" />
 </p>
 <hr>
 <h3> 👨🏻‍💻 Acerca de mi</h3>
