@@ -25,7 +25,7 @@
 - 🔭 &nbsp; Estoy en busqueda de ampliar mis conocimientos en desarrollo web
 - 🤔 &nbsp; Explorando nuevas tecnologías para un mejor entendimiento.
 - 🎓 &nbsp; Por terminar el bachillerato de Informática.
-- 🌱 &nbsp; Muy interesado en seguridad informática e Inteligencia Artificial .
+- 😄 &nbsp; Muy interesado en seguridad informática e Inteligencia Artificial .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 <p align="center">
