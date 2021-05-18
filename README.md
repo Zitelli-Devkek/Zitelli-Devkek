@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Lives-Argentina-lightblue" />
   <img src="https://img.shields.io/badge/Languages-Spanish and English-purple" />
 </p>
-<h1><p align="center">¡Hola &nbsp; <img src="http://comicgeekos.com/blog/wp-content/uploads/2015/08/hestia-brushing_nnpif73Wz41ry3zwjo1_540.gif" alt="GIF" width=45px height=45px>  &nbsp;, soy <a href="https://github.com/Zitelli-Devkek">Zitelli Dev (kek)</a>! 👋</p></h1>
+<h1><p align="center">¡Hola &nbsp; <img src="https://i.pinimg.com/originals/b3/ec/55/b3ec55a89fdc4a07fd4662f5ec8f88f7.gif" alt="GIF" width=45px height=45px>  &nbsp;, soy <a href="https://github.com/Zitelli-Devkek">Zitelli Dev (kek)</a>! 👋</p></h1>
 <p align="center">
   <img alt="GIF" src="https://wallpapercave.com/wp/wp2761901.gif" height="300"/>
 </p>
