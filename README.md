@@ -7,7 +7,7 @@
 </p>
 <h1><p align="center">¡Hola &nbsp; <img src="https://img1.picmix.com/output/stamp/normal/8/4/2/3/1563248_c539d.gif" alt="GIF" width=45px height=45px>  &nbsp;, soy <a href="https://github.com/Zitelli-Devkek">Zitelli Dev (kek)</a>! 👋</p></h1>
 <p align="center">
-  <img alt="GIF" src="https://wallpapercave.com/wp/wp2761901.gif" height="300" width="150"/>
+  <img alt="GIF" src="https://wallpapercave.com/wp/wp2761901.gif" height="300" width="450"/>
 </p>
 </p>
 <hr>
