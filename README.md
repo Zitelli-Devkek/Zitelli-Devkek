@@ -13,7 +13,7 @@
 <hr>
 <p align="center">
 <img align="center" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML logo" width="65"  />
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" alt="CSS logo"  width="40" /> 
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" alt="CSS logo"  width="55" /> 
  <img align="center" src="https://startuptrackerco.s3.eu-central-1.amazonaws.com/images/compiles-tailwindcss-files-into-pure-css-files-5feb65f98f54c.png" alt="Tailwindcss logo"  width="80" />
 <img align="center" src="https://anthoncode.com/wp-content/uploads/2019/01/python-logo-png.png" alt="Python logo"  width="300" />
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS studio logo"  width="40" />
