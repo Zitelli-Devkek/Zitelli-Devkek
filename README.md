@@ -1,6 +1,6 @@
 </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-17-blue" />
+<img src="https://img.shields.io/badge/Age-18-blue" />
   <img src="https://img.shields.io/badge/Focusing on-Web%20Development-orange" />
   <img src="https://img.shields.io/badge/Lives-Argentina-lightblue" />
   <img src="https://img.shields.io/badge/Languages-Spanish and English-purple" />
