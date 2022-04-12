@@ -17,7 +17,7 @@
  <img align="center" src="https://petermekhaeil.gallerycdn.vsassets.io/extensions/petermekhaeil/vscode-tailwindcss-explorer/0.6.1/1620805955090/Microsoft.VisualStudio.Services.Icons.Default" alt="Tailwindcss logo"  width="80" />
 <img align="center" src="https://anthoncode.com/wp-content/uploads/2019/01/python-logo-png.png" alt="Python logo"  width="300" />
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS studio logo"  width="40" />
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git logo"  width="150" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git logo"  width="100" />
  <img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png" alt="github logo" width="150" />
 </p>
 <hr>
